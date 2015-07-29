@@ -1,0 +1,4 @@
+ubc : University of British Columbia
+UBC : University of British Columbia
+bcit : British Columbia Institute of Technology
+sfu : Simon Fraser University

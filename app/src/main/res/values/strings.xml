@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Welcome to UApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_campus">Find Your School</string>
+    <string name="search_label">Find Your School</string>
+    <string name="search_hint">Type in your school name</string>
+</resources>
